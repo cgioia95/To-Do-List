@@ -1,2 +1,4 @@
-# ToDoList
-To do list implementing node js and the ejs templating language. 
+# To-Do List
+
+To-Do list implementing NodeJS and the EJS templating language.
+
